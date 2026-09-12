@@ -22,6 +22,6 @@ console.log(newdate.getTime());
 
 console.log(Math.floor(Date.now()/100));//it will give anshwer in seconds and remove all the values after point 
 
-
+//
 
 // useing .get(we can get too many function like month day year time etc)
